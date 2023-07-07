@@ -1,8 +1,0 @@
-{
-    "name": "Hexated providers repository",
-    "description": "Providers from all country",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://dl.dropbox.com/s/74b1xky09u03c6h/rep.json"
-    ]
-}
