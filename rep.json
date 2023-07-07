@@ -1,4 +1,4 @@
-"[
+[
     {
         "iconUrl": "https://media.discordapp.net/attachments/1059306855865782282/1123970193274712096/Anichi.png",
         "apiVersion": 1,
@@ -1101,5 +1101,4 @@
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YugenAnime.cs3",
         "name": "YugenAnime"
     }
-]"
- https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/plugins.json#:~:text=%5B%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22iconUrl%22%3A%20%22https%3A//media,cs3%22%2C%0A%20%20%20%20%20%20%20%20%22name%22%3A%20%22YugenAnime%22%0A%20%20%20%20%7D%0A%5D
+]
