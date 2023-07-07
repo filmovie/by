@@ -1,0 +1,8 @@
+{
+    "name": "Hexated providers repository",
+    "description": "Providers from all country",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://rawcdn.githack.com/filmovie/by/ab505688d954a22b00eb872fc3c1ca3a1923411a/rep.json"
+    ]
+}
