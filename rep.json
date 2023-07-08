@@ -987,24 +987,6 @@
         "name": "UakinoProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=useetv.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 9523,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "UseeTv",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/UseeTv.cs3",
-        "name": "UseeTv"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
