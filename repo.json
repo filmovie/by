@@ -1,0 +1,22 @@
+[
+   {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=oploverz.care&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/filmovie/moxer",
+        "fileSize": 17012,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "bycmoxer"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 19,
+        "internalName": "OploverzProvider",
+        "url": "https://raw.githubusercontent.com/filmovie/moxer/builds/OploverzProvider.cs3",
+        "name": "OploverzProvider"
+    },
+]
