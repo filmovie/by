@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:301
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:300.008044,
+https://dl.dropbox.com/scl/fi/jkiaeibg2770wcj2xtgj0/index0.ts?rlkey=3jonanj61pn0432nqwia9nkor&dl=0
+#EXTINF:300.383411,
+https://dl.dropbox.com/scl/fi/yyvp0c3ll0awx64mwwmr0/index1.ts?rlkey=okv5mtaz4bgl319x98fhjzgj8&dl=0
+#EXTINF:300.466833,
+https://dl.dropbox.com/scl/fi/glt8g15jtiopspdbxv68o/index2.ts?rlkey=l4ze7fc0ovw2s9mve7g7y1yng&dl=0
+#EXTINF:300.466833,
+https://dl.dropbox.com/scl/fi/43cs6hicw3ei0wxkzaq6r/index3.ts?rlkey=wtcwuvupf2wgb91i6765eaou4&dl=0
+#EXTINF:218.009467,
+https://dl.dropbox.com/scl/fi/umia14ximhukb82vc98dx/index4.ts?rlkey=dsbdqchlk4wha5lpjg2vp0ss8&dl=0
+#EXT-X-ENDLIST
