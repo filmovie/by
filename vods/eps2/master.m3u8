@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000,RESOLUTION=426x240,NAME=240p
+https://filmovie.github.io/by/vods/eps2/1/index1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1576000,RESOLUTION=854x480,NAME=480p
+https://filmovie.github.io/by/vods/eps2/index.m3u8
