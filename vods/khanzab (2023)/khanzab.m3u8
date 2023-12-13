@@ -4,7 +4,7 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:7.680000,
-https://filmovie.github.io/by/vods/ads/ads0.ts
+ads0.ts
 #EXTINF:19.561211,
 khanzab0.ts
 #EXTINF:10.010000,
